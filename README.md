@@ -10,17 +10,17 @@ Pokedex search using the Pokemon TCG API: [https://pokemontcg.io](https://pokemo
 
 ## Screenshots
 ### Home page default view
-![Pokedex Main](public/images/pokedex_main.png raw=true)
+![Pokedex Main](https://github.com/a-herscovich/pokedex/blob/master/public/images/pokedex_main.png raw=true)
 
 ### Hover effect over Card component
-![Card Hover](public/images/hover_card.png raw=true)
+![Card Hover](https://github.com/a-herscovich/pokedex/blob/master/public/images/hover_card.png raw=true)
 
 ### Card Popover
-![Card Information Popover](public/images/card_popover.png raw=true "Additional information on a Pokemon Card is displayed as a Popover which can be opened and closed by clicking on the Pokemon Card")
+![Card Information Popover](https://github.com/a-herscovich/pokedex/blob/master/public/images/card_popover.png raw=true "Additional information on a Pokemon Card is displayed as a Popover which can be opened and closed by clicking on the Pokemon Card")
 
 ### Interactive Searchbar
-![Searchbar Before](public/images/searchbar_before.png raw=true "Before")
-![Searchbar After](public/images/searchbar_after.png raw=true "On Search")
+![Searchbar Before](https://github.com/a-herscovich/pokedex/blob/master/public/images/searchbar_before.png raw=true "Before")
+![Searchbar After](https://github.com/a-herscovich/pokedex/blob/master/public/images/searchbar_after.png raw=true "On Search")
 
 ## Run
 ### Development
