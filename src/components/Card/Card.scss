@@ -1,0 +1,24 @@
+.card,
+.card_showPopover {
+  background-image: url(https://pbs.twimg.com/media/EDA1GeNUUAAuCK1.jpg);
+  background-position: center center;
+  display: flex;
+  flex-flow: column nowrap;
+  width: 245px;
+  height: 342px;
+  border: 2px;
+  border-color: #1c1385;
+  border-radius: 10px;
+  margin: 20px 10px 20px;
+
+  &:hover,
+  &:active,
+  &:focus {
+    cursor: pointer;
+    -moz-box-shadow: 0 0 30px #ccc;
+    -webkit-box-shadow: 0 0 30px #ccc;
+    box-shadow: 0 0 30px #ccc;
+
+    transform: scale(1.02);
+  }
+}

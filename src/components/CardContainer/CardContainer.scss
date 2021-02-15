@@ -1,0 +1,17 @@
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-content: flex-start;
+  overflow: auto;
+  margin: 30px;
+  position: absolute;
+  top: 80px;
+  bottom: 40px;
+  height: calc(100% - 80px - 40px - 45px);
+
+  & .card_showPopover {
+    opacity: 0.3;
+  }
+
+}
