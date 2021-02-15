@@ -1,15 +1,17 @@
 # Pokedex-TCG
 Pokedex search using the Pokemon TCG API: [https://pokemontcg.io](https://pokemontcg.io).
 
-## Features
-- Search Pokemon by Name with Dynamic search bar
+![React](https://img.shields.io/badge/-React-blue) ![Javascript](https://img.shields.io/badge/-Javascript-yellow) ![SCSS](https://img.shields.io/badge/-SCSS-ff69b4)
+
+## ✨ Features
+- Search Pokemon by Name with Dynamic search bar 
 - Click on card to view additional information
 - Click on same card to close additional information popover
 - Click on logo in top left corner to clear search and return to default home page view
 - Active and hover state Interaction CSS effects 
 - Responsive web application
 
-## Screenshots
+## 📸 Screenshots
 ### Home page default view
 ![Pokedex Main](https://github.com/a-herscovich/pokedex/blob/master/public/images/pokedex_main.png)
 
@@ -26,6 +28,6 @@ Before: <br />
 On Search: <br />
 ![Searchbar After](https://github.com/a-herscovich/pokedex/blob/master/public/images/searchbar_after.png)
 
-## Run
+## 🏃‍♂️ Run
 ### Development
 `yarn start`
