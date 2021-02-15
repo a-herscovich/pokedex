@@ -7,6 +7,7 @@ Pokedex search using the Pokemon TCG API: [https://pokemontcg.io](https://pokemo
 - Click on same card to close additional information popover
 - Click on logo in top left corner to clear search and return to default home page view
 - Active and hover state Interaction CSS effects 
+- Responsive web application
 
 ## Screenshots
 ### Home page default view
