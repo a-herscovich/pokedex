@@ -4,9 +4,7 @@ html, body {
     margin: 0; 
     height: 100%;
     background: rgb(12,28,105);
-background: radial-gradient(circle, rgba(12,28,105,1) 0%, rgba(0,0,0,1) 100%);
-    /* background-image: url(https://wallpapercave.com/wp/wp4958755.jpg); */
-    /* background-image: url(https://cdn5.vectorstock.com/i/1000x1000/56/39/seamless-pattern-with-lightning-bolt-vector-24035639.jpg); */
+    background: radial-gradient(circle, rgba(12,28,105,1) 0%, rgba(0,0,0,1) 100%);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }

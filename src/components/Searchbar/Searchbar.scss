@@ -12,6 +12,12 @@
     width: 100%;
     color: #1c1385;
 
+    @media only screen and (max-width: 660px) {
+        .logo {
+          display: none;
+        }
+      }
+
     .searchbar {
         margin-top: auto;
         margin-bottom: auto;
